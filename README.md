@@ -12,7 +12,7 @@ ini adalah tampilan setelah run <p>
 ### Lab2
 Konversi Nilai Variable <p>
 Ini adalah programnya <p>
-![Gambar](tangkapanlayar/ss14.png)
+![Gambar 1](tangkapanlayar/ss14.png)
 
 ini adalah tampilan setelah run lalu masukkan nilai a <p>
 ![Gambar](tangakapanlayar/ss15.png)
