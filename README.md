@@ -27,10 +27,10 @@ Flowcart Menghitung Luas dan Keliling Lingkaran <p>
 
 ##### Luas dan Keliling Lingkaran
 Rumus Luas dan Keliling Lingkaran <p>
-Luas=pi*r*r
-Keliling = 2*pi*r
-Nilai phi yang saya gunakan adalah 3,14
-r adalah jari-jari
+Luas=pi*r*r <p>
+Keliling = 2*pi*r <p>
+Nilai phi yang saya gunakan adalah 3,14 <p>
+r adalah jari-jari <p>
 ![Gambar](tangkapanlayar/ss18.png)
 
 ini adalah hasil run, lalu kita masukkan nilai jari-jari lingkaran <p>
@@ -39,7 +39,7 @@ ini adalah hasil run, lalu kita masukkan nilai jari-jari lingkaran <p>
 setelah masukkan nilai jari-jari maka ini adalah hasilnya <p>
 ![Gambar](tangkapanlayar/ss20.png)
 
-saya menggunakan fungsi input() yang nilainya dikonversi ke tipe data Float(bilangan rill)
+saya menggunakan fungsi input() yang nilainya dikonversi ke tipe data Float(bilangan rill) <p>
 ![Gambar](tangkapanlayar/ss21.png)
 
 program diatas saya gunakan modul math yang sudah disediakan oleh python.
